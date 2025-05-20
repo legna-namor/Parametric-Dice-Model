@@ -7,7 +7,7 @@
         then subtracting smaller spheres to simulate pips on all six faces.
         Easily customizable by adjusting `cube_size`.
 */
-$fs = .4;
+$fs = 1;
 // === Parameters ===
 cube_size = 10;
 sphere_size = cube_size / 1.36;
